@@ -1,2 +1,16 @@
 .DS_Store
 data
+
+# Created by http://www.gitignore.io
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+### IPythonNotebook ###
+# Temporary data
+.ipynb_checkpoints/
