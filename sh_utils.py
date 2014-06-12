@@ -6,7 +6,10 @@ import pandas
 firstline = "Melody Incipit first line"
 secondline = "Melody Incipit second line"
 tunename = "Tune Name"
-cleaned_1st_incipit = "cleaned-first-incipit"
+cleaned_first_incipit = "cleaned-first-incipit"
+cleaned_second_incipit = "cleaned-second-incipit"
+cleaned_incipit = "cleaned-incipit"
+full_incipit = "full-incipit"
 
 def remove_Us_and_Ds(incipit):
     '''
